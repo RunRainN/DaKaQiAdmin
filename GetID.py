@@ -14,7 +14,7 @@ def get_id():
                "Host": "www.dakaqi.cn",
                "Connection": "Keep-Alive",
                "User-Agent": "94541365-d701-480a-b298-2cd31d49d7fc/8a2d216865a88a4401661ab0e4984376/Android 6.0.1 2.5.1.1",
-               "Cookie": "SERVERID=8a715814d06e7275a2b7fded6130aa45|1567821271|1567821242",
+               "Cookie": "xxx",
                "Cookie2": "$Version=1",
                "Accept-Encoding": "gzip"
                }
